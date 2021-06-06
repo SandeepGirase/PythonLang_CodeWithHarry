@@ -1,0 +1,13 @@
+mystr = "Sandeep is a good boy"
+print()
+print(mystr)
+print(len(mystr))
+print(mystr[0:8:2])
+print(mystr.endswith("bboy"))
+print(mystr.count("0"))
+print(mystr.count("a"))
+print(mystr.find("is"))
+print(mystr.replace("is","are"))
+print(mystr.capitalize())
+print(mystr.upper())
+print(mystr.lower())
